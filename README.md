@@ -27,7 +27,16 @@ There are 2 way to use this wishcard maker:
 You can go on the website wich is:
 you will be able to send your wishcard !
 
+
 ### localhost:5000/
 
 Or either you can upload this code in Visual Studio Code,by using the command:
-```git clone
+``` 
+git clone https://github.com/ArtyETH06/WishcardMaker
+```
+
+Then,open a new terminal, and put the command:
+```
+python app.py
+```
+And go on your `localhost:5000`,and your all set !
