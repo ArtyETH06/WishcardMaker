@@ -1,5 +1,5 @@
 # WishcardMaker
-*Wish Card Maker* is a program made with **flask**,👨🏻‍💻it allows you to create your personal wishcard,it contains:
+*Wish Card Maker* is a program made with **flask**,👨🏻‍💻wich allows you to create your personal wishcard,it contains:
 
 ## About the project
 
@@ -40,6 +40,19 @@ Then,open a new terminal, and put the command:
 python app.py
 ```
 And go on your `localhost:5000`,and your all set !
+
+
+## Content of the project
+
+In this project you will find diffferent files,the mains are:
+
+-**1 .py**(app.py for the flask app)
+
+-**2 .html** (index.html and resultat.html)
+
+-**2 .css** (style.css and style2.css)
+
+-**2 .js** (code.js and code2.js)
 
 
 **For non commercial purpose only**
