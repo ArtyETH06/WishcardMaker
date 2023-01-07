@@ -40,3 +40,7 @@ Then,open a new terminal, and put the command:
 python app.py
 ```
 And go on your `localhost:5000`,and your all set !
+
+
+**For non commercial purpose only**
+**©Arty**
