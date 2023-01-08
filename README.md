@@ -17,7 +17,7 @@ This code was made for my NSI final task !
 
 The site will be **temporarily accessible** at  -->
 
-So you will be able to **send your wishcard**, by copying the URL and send it to someone (thats why i decided to use the *Get* method)
+So you will be able to **send your wishcard**, by copying the URL and send it to someone.
 
 You might be questioning,why `GET`method ? Bcause when the website will be up,you'll be able to send your wishcard directly with the URL !
 
